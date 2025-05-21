@@ -1,0 +1,72 @@
+Top Influential Factors
+Monthly Income
+
+Insight: Income is the most influential factor.
+
+Action: Benchmark salaries against industry standards. Consider regular reviews and raises, especially for high-performing employees.
+
+Age
+
+Insight: Attrition patterns differ by age. Younger employees may leave for better growth opportunities.
+
+Action: Offer career development paths and mentorship programs tailored by age group.
+
+OverTime
+
+Insight: High overtime may lead to burnout and dissatisfaction.
+
+Action: Monitor overtime trends. Offer better workload balancing and compensatory time off.
+
+DailyRate / MonthlyRate / HourlyRate
+
+Insight: Compensation structure directly impacts retention.
+
+Action: Ensure transparency and fairness in pay. Align incentives with performance.
+
+TotalWorkingYears / YearsAtCompany / YearsInCurrentRole
+
+Insight: Experience and tenure matter. Mid-tenure employees may seek change or advancement.
+
+Action: Build strong internal mobility and promotion programs.
+
+DistanceFromHome
+
+Insight: Long commutes increase attrition risk.
+
+Action: Offer remote work or flexible hours, especially for those far from the office.
+
+EnvironmentSatisfaction / JobSatisfaction / RelationshipSatisfaction
+
+Insight: Satisfaction metrics are predictive of loyalty.
+
+Action: Conduct regular pulse surveys and act on feedback. Improve workplace culture and leadership communication.
+
+WorkLifeBalance
+
+Insight: Low balance contributes to turnover.
+
+Action: Encourage use of leave, reduce unnecessary meetings, support hybrid or remote models.
+
+NumCompaniesWorked
+
+Insight: Employees with multiple prior jobs may be more likely to leave.
+
+Action: Identify these employees early and provide clear long-term growth plans.
+
+📉 Less Influential Factors (but still worth monitoring)
+Gender
+
+Role: Research Director / Healthcare Rep / etc.
+
+Department
+
+These have minimal impact in your model but may still contribute in specific contexts.
+
+📌 Summary of Recommended Actions
+Focus Area	Action
+Compensation	Adjust income to be competitive and equitable.
+Career Growth	Provide training, mentorship, and advancement opportunities.
+Work Conditions	Limit overtime, improve work-life balance, offer flexibility.
+Commute & Location	Allow hybrid/remote work or relocation support.
+Satisfaction Monitoring	Run frequent feedback surveys and act on them.
+Tenure Management	Engage mid-tenure employees with new roles or responsibilities.
